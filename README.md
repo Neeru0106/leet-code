@@ -14,6 +14,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Neeru0106/leet-code/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0443-string-compression](https://github.com/Neeru0106/leet-code/tree/main/0443-string-compression/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,4 +31,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Neeru0106/leet-code/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0443-string-compression](https://github.com/Neeru0106/leet-code/tree/main/0443-string-compression/) | Medium |
 <!---LeetCode Topics End-->
