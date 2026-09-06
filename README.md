@@ -14,6 +14,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Neeru0106/leet-code/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0115-distinct-subsequences](https://github.com/Neeru0106/leet-code/tree/main/0115-distinct-subsequences/) | Hard |
 | [0443-string-compression](https://github.com/Neeru0106/leet-code/tree/main/0443-string-compression/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -35,4 +36,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0443-string-compression](https://github.com/Neeru0106/leet-code/tree/main/0443-string-compression/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/Neeru0106/leet-code/tree/main/0115-distinct-subsequences/) | Hard |
 <!---LeetCode Topics End-->
