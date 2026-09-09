@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/Neeru0106/leet-code/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Neeru0106/leet-code/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Neeru0106/leet-code/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Prefix Sum
