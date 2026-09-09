@@ -64,4 +64,8 @@
 | ------- | ------- |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Neeru0106/leet-code/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Neeru0106/leet-code/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Neeru0106/leet-code/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 <!---LeetCode Topics End-->
