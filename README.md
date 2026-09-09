@@ -21,6 +21,7 @@
 | [0115-distinct-subsequences](https://github.com/Neeru0106/leet-code/tree/main/0115-distinct-subsequences/) | Hard |
 | [0443-string-compression](https://github.com/Neeru0106/leet-code/tree/main/0443-string-compression/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Neeru0106/leet-code/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Neeru0106/leet-code/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,8 +57,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Neeru0106/leet-code/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Neeru0106/leet-code/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Neeru0106/leet-code/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Neeru0106/leet-code/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 <!---LeetCode Topics End-->
