@@ -23,6 +23,7 @@
 | [0115-distinct-subsequences](https://github.com/Neeru0106/leet-code/tree/main/0115-distinct-subsequences/) | Hard |
 | [0443-string-compression](https://github.com/Neeru0106/leet-code/tree/main/0443-string-compression/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Neeru0106/leet-code/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Neeru0106/leet-code/tree/main/1309-decrypt-string-from-alphabet-to-integer-mapping/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Neeru0106/leet-code/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Neeru0106/leet-code/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 ## Sorting
