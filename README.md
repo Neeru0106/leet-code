@@ -8,6 +8,7 @@
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Neeru0106/leet-code/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Neeru0106/leet-code/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Neeru0106/leet-code/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Neeru0106/leet-code/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Neeru0106/leet-code/tree/main/3000-maximum-area-of-longest-diagonal-rectangle/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Neeru0106/leet-code/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/Neeru0106/leet-code/tree/main/3861-minimum-capacity-box/) | Easy |
@@ -25,6 +26,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/Neeru0106/leet-code/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Neeru0106/leet-code/tree/main/1309-decrypt-string-from-alphabet-to-integer-mapping/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Neeru0106/leet-code/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Neeru0106/leet-code/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Neeru0106/leet-code/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -45,6 +47,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Neeru0106/leet-code/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Neeru0106/leet-code/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +66,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Neeru0106/leet-code/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Neeru0106/leet-code/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Neeru0106/leet-code/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Neeru0106/leet-code/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 ## Counting
