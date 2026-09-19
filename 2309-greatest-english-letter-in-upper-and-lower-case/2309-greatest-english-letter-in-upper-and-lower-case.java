@@ -1,22 +1,15 @@
 class Solution {
-    public String greatestLetter(String s) {
-        boolean[] c1=new boolean[26];
-        boolean[] c2=new boolean[26];
-        int n=s.length();
-        for(int i=0;i<n;i++){
-            char c=s.charAt(i);
-            if(c<'a'){
-                c1[c-'A']=true;
-            } else{
-                c2[c-'a']=true;
-            }
+    public String greatestLetter(String s) {  
+    	char lowercaseLetter = 'z';
+    	char uppercaseLetter = 'Z';
+    	for (int i = 26; i >= 1; i--) {
+        	if (s.indexOf(lowercaseLetter) != -1 && 
+        		s.indexOf(uppercaseLetter) != -1) {
+        		return String.valueOf(uppercaseLetter);
+        	}
+        	lowercaseLetter--;
+        	uppercaseLetter--;
         }
-        for(int i=25;i>=0;i--){
-            if(c1[i] && c2[i]){
-                char c=(char)('A'+i);
-                return new String(c+"");
-            }
-        }
-        return "";
+    	return "";
     }
 }
