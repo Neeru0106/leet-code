@@ -35,6 +35,7 @@
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Neeru0106/leet-code/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Neeru0106/leet-code/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Neeru0106/leet-code/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Neeru0106/leet-code/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +56,7 @@
 | ------- | ------- |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Neeru0106/leet-code/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Neeru0106/leet-code/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Neeru0106/leet-code/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
