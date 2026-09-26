@@ -1,14 +1,27 @@
 class Solution {
     public int minQueenMoves(int[] source, int[] target) {
-        if(source[0]==target[0] && source[1]==target[1]){
+        int sr = source[0];
+        int sc = source[1];
+
+        int tr = target[0];
+        int tc = target[1];
+
+        // Already at target
+        if (sr == tr && sc == tc) {
             return 0;
         }
-        if(source[0]==target[0] || source[1]==target[1]){
+
+        // Same row or same column
+        if (sr == tr || sc == tc) {
             return 1;
         }
-        if(Math.abs(source[1]-target[1])==Math.abs(source[0]-target[0])){
+
+        // Same diagonal
+        if (Math.abs(sr - tr) == Math.abs(sc - tc)) {
             return 1;
         }
+
+        // Otherwise, can always reach in 2 moves
         return 2;
     }
 }
