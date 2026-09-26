@@ -17,6 +17,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Neeru0106/leet-code/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Neeru0106/leet-code/tree/main/3000-maximum-area-of-longest-diagonal-rectangle/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Neeru0106/leet-code/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+| [3467-transform-array-by-parity](https://github.com/Neeru0106/leet-code/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/Neeru0106/leet-code/tree/main/3861-minimum-capacity-box/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Neeru0106/leet-code/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Prefix Sum
@@ -47,6 +48,7 @@
 | [0506-relative-ranks](https://github.com/Neeru0106/leet-code/tree/main/0506-relative-ranks/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Neeru0106/leet-code/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Neeru0106/leet-code/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
+| [3467-transform-array-by-parity](https://github.com/Neeru0106/leet-code/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/Neeru0106/leet-code/tree/main/3992-rearrange-string-to-avoid-character-pair/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -99,6 +101,7 @@
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Neeru0106/leet-code/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Neeru0106/leet-code/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Neeru0106/leet-code/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
+| [3467-transform-array-by-parity](https://github.com/Neeru0106/leet-code/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
