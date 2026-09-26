@@ -39,12 +39,14 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Neeru0106/leet-code/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Neeru0106/leet-code/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Neeru0106/leet-code/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/Neeru0106/leet-code/tree/main/3992-rearrange-string-to-avoid-character-pair/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0506-relative-ranks](https://github.com/Neeru0106/leet-code/tree/main/0506-relative-ranks/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Neeru0106/leet-code/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Neeru0106/leet-code/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/Neeru0106/leet-code/tree/main/3992-rearrange-string-to-avoid-character-pair/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +68,7 @@
 | ------- | ------- |
 | [0443-string-compression](https://github.com/Neeru0106/leet-code/tree/main/0443-string-compression/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Neeru0106/leet-code/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/Neeru0106/leet-code/tree/main/3992-rearrange-string-to-avoid-character-pair/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
