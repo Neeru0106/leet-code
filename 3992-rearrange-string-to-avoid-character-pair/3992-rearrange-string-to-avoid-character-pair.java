@@ -1,28 +1,25 @@
 class Solution {
     public String rearrangeString(String s, char x, char y) {
-        int[] freq=new int[26];
-        int n=s.length();
-        for(int i=0;i<n;i++){
-            freq[s.charAt(i)-'a']++;
-        }
-        StringBuilder sb=new StringBuilder();
-        for(int i=0;i<freq[y-'a'];i++){
-            sb.append(y);
-        }
-        freq[y-'a']=0;
-        for(int i=0;i<26;i++){
-            if(i!=(int)(x-'a')){
-                if(freq[i]!=0){
-                    while(freq[i]!=0){
-                        sb.append((char)(i+'a'));
-                        freq[i]--;
-                    }
-                }
+        int i = 0, j = s.length() - 1;
+        char[] arr = s.toCharArray();
+        while(i <= j){
+            if(arr[i] == x && arr[j] == y){
+                swap(arr, i, j);
+                i++;
+                j--;
+            }
+            else if(arr[i] == x){
+                j--;
+            }
+            else{
+                i++;
             }
         }
-        for(int i=0;i<freq[x-'a'];i++){
-            sb.append(x);
-        }
-        return sb.toString();
+        return new String(arr);
+    }
+    public void swap(char[] arr, int x, int y){
+        char temp = arr[x];
+        arr[x] = arr[y];
+        arr[y] = temp; 
     }
 }
