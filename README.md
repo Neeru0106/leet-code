@@ -9,6 +9,7 @@
 | [0748-shortest-completing-word](https://github.com/Neeru0106/leet-code/tree/main/0748-shortest-completing-word/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Neeru0106/leet-code/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Neeru0106/leet-code/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
+| [1720-decode-xored-array](https://github.com/Neeru0106/leet-code/tree/main/1720-decode-xored-array/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Neeru0106/leet-code/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Neeru0106/leet-code/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Neeru0106/leet-code/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
@@ -112,6 +113,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Neeru0106/leet-code/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
+| [1720-decode-xored-array](https://github.com/Neeru0106/leet-code/tree/main/1720-decode-xored-array/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Neeru0106/leet-code/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
