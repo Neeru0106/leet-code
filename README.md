@@ -68,6 +68,7 @@
 | [2500-delete-greatest-value-in-each-row](https://github.com/Neeru0106/leet-code/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Neeru0106/leet-code/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Neeru0106/leet-code/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Neeru0106/leet-code/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +87,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Neeru0106/leet-code/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Neeru0106/leet-code/tree/main/0836-rectangle-overlap/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Neeru0106/leet-code/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Neeru0106/leet-code/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Neeru0106/leet-code/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Neeru0106/leet-code/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Neeru0106/leet-code/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
