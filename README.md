@@ -129,6 +129,7 @@
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Neeru0106/leet-code/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Neeru0106/leet-code/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Neeru0106/leet-code/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
+| [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Neeru0106/leet-code/tree/main/3226-number-of-bit-changes-to-make-two-integers-equal/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Neeru0106/leet-code/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
