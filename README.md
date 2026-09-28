@@ -34,6 +34,7 @@
 | [3904-smallest-stable-index-ii](https://github.com/Neeru0106/leet-code/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3996-even-number-of-knight-moves](https://github.com/Neeru0106/leet-code/tree/main/3996-even-number-of-knight-moves/) | Easy |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Neeru0106/leet-code/tree/main/4048-count-values-with-equally-spaced-occurrences-i/) | Easy |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/Neeru0106/leet-code/tree/main/4049-count-values-with-equally-spaced-occurrences-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +122,7 @@
 | [3005-count-elements-with-maximum-frequency](https://github.com/Neeru0106/leet-code/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Neeru0106/leet-code/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Neeru0106/leet-code/tree/main/4048-count-values-with-equally-spaced-occurrences-i/) | Easy |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/Neeru0106/leet-code/tree/main/4049-count-values-with-equally-spaced-occurrences-ii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
