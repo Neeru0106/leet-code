@@ -17,6 +17,7 @@
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Neeru0106/leet-code/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Neeru0106/leet-code/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Neeru0106/leet-code/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2401-longest-nice-subarray](https://github.com/Neeru0106/leet-code/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Neeru0106/leet-code/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Neeru0106/leet-code/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Neeru0106/leet-code/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
@@ -129,6 +130,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Neeru0106/leet-code/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [1720-decode-xored-array](https://github.com/Neeru0106/leet-code/tree/main/1720-decode-xored-array/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Neeru0106/leet-code/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
+| [2401-longest-nice-subarray](https://github.com/Neeru0106/leet-code/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Neeru0106/leet-code/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Neeru0106/leet-code/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Neeru0106/leet-code/tree/main/3226-number-of-bit-changes-to-make-two-integers-equal/) | Easy |
@@ -171,4 +173,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Neeru0106/leet-code/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2401-longest-nice-subarray](https://github.com/Neeru0106/leet-code/tree/main/2401-longest-nice-subarray/) | Medium |
 <!---LeetCode Topics End-->
