@@ -109,6 +109,7 @@
 | [3870-count-commas-in-range](https://github.com/Neeru0106/leet-code/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Neeru0106/leet-code/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Neeru0106/leet-code/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Neeru0106/leet-code/tree/main/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
 | [3996-even-number-of-knight-moves](https://github.com/Neeru0106/leet-code/tree/main/3996-even-number-of-knight-moves/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -167,6 +168,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Neeru0106/leet-code/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Neeru0106/leet-code/tree/main/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
