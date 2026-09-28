@@ -1,14 +1,13 @@
 class Solution {
     public int minChanges(int n, int k) {
-        String s1=String.format("%20s",Integer.toBinaryString(n)).replace(' ','0');
-        String s2=String.format("%20s",Integer.toBinaryString(k)).replace(' ','0');
+        if((n&k)!=k) return -1;
+        int diff=n^k;
         int count=0;
-        for(int i=0;i<20;i++){
-            if(s1.charAt(i)=='1' && s2.charAt(i)=='0'){
+        while(diff!=0){
+            if((diff&1)==1){
                 count++;
-            } else if(s1.charAt(i)=='0' && s2.charAt(i)=='1'){
-                return -1;
             }
+            diff=diff>>1;
         }
         return count;
     }
