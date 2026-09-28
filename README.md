@@ -105,6 +105,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Neeru0106/leet-code/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Neeru0106/leet-code/tree/main/0836-rectangle-overlap/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Neeru0106/leet-code/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
+| [1925-count-square-sum-triples](https://github.com/Neeru0106/leet-code/tree/main/1925-count-square-sum-triples/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Neeru0106/leet-code/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Neeru0106/leet-code/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Neeru0106/leet-code/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -155,6 +156,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1925-count-square-sum-triples](https://github.com/Neeru0106/leet-code/tree/main/1925-count-square-sum-triples/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Neeru0106/leet-code/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
