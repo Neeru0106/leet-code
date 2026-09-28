@@ -33,6 +33,7 @@
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Neeru0106/leet-code/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
 | [3904-smallest-stable-index-ii](https://github.com/Neeru0106/leet-code/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3996-even-number-of-knight-moves](https://github.com/Neeru0106/leet-code/tree/main/3996-even-number-of-knight-moves/) | Easy |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Neeru0106/leet-code/tree/main/4048-count-values-with-equally-spaced-occurrences-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +120,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Neeru0106/leet-code/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Neeru0106/leet-code/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Neeru0106/leet-code/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Neeru0106/leet-code/tree/main/4048-count-values-with-equally-spaced-occurrences-i/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
