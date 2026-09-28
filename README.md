@@ -32,6 +32,7 @@
 | [3861-minimum-capacity-box](https://github.com/Neeru0106/leet-code/tree/main/3861-minimum-capacity-box/) | Easy |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Neeru0106/leet-code/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
 | [3904-smallest-stable-index-ii](https://github.com/Neeru0106/leet-code/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3996-even-number-of-knight-moves](https://github.com/Neeru0106/leet-code/tree/main/3996-even-number-of-knight-moves/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +107,7 @@
 | [3870-count-commas-in-range](https://github.com/Neeru0106/leet-code/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Neeru0106/leet-code/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Neeru0106/leet-code/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
+| [3996-even-number-of-knight-moves](https://github.com/Neeru0106/leet-code/tree/main/3996-even-number-of-knight-moves/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
