@@ -24,6 +24,7 @@
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Neeru0106/leet-code/tree/main/3000-maximum-area-of-longest-diagonal-rectangle/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Neeru0106/leet-code/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Neeru0106/leet-code/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Neeru0106/leet-code/tree/main/3315-construct-the-minimum-bitwise-array-ii/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/Neeru0106/leet-code/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3637-trionic-array-i](https://github.com/Neeru0106/leet-code/tree/main/3637-trionic-array-i/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Neeru0106/leet-code/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
@@ -132,6 +133,7 @@
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Neeru0106/leet-code/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Neeru0106/leet-code/tree/main/3226-number-of-bit-changes-to-make-two-integers-equal/) | Easy |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Neeru0106/leet-code/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Neeru0106/leet-code/tree/main/3315-construct-the-minimum-bitwise-array-ii/) | Medium |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Neeru0106/leet-code/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
