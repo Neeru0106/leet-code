@@ -1,93 +1,52 @@
 class Solution {
     public String originalDigits(String s) {
-        char[] c = new char[26];
-        int count = 0;
-        for (char l : s.toCharArray()) {
-            c[l - 'a']++;
-            count++;
+        int arr[] = new int[26];
+        int nums[] = new int[10];
+        for (char ch : s.toCharArray()) {
+            arr[ch - 'a']++;
         }
-        StringBuilder sb = new StringBuilder();
-        while (count != 0) {
-            while (c[25] != 0 && c[4] != 0 && c[17] != 0 && c[14] != 0) {
-                sb.append(0);
-                c[25]--;
-                c[4]--;
-                c[17]--;
-                c[14]--;
-                count -= 4;
-            }
-            while (c[22] > 0) {
-                sb.append(2);
-                c[19]--;
-                c[22]--;
-                c[14]--;
-                count -= 3;
-            }
-            while (c[20] > 0) {
-                sb.append(4);
-                c[5]--;
-                c[14]--;
-                c[20]--;
-                c[17]--;
-                count -= 4;
-            }
-            while (c[23] > 0) {
-                sb.append(6);
-                c[18]--;
-                c[8]--;
-                c[23]--;
-                count -= 3;
-            }
-            while (c[6] > 0) {
-                sb.append(8);
-                c[4]--;
-                c[8]--;
-                c[6]--;
-                c[7]--;
-                c[19]--;
-                count -= 5;
-            }
-            while (c[7] > 0) {
-                sb.append(3);
-                c[19]--;
-                c[7]--;
-                c[17]--;
-                c[4] -= 2;
-                count -= 5;
-            }
-            while (c[5] > 0) {
-                sb.append(5);
-                c[5]--;
-                c[8]--;
-                c[21]--;
-                c[4]--;
-                count -= 4;
-            }
-            while (c[18] > 0) {
-                sb.append(7);
-                c[18]--;
-                c[4] -= 2;
-                c[21]--;
-                c[13]--;
-                count -= 5;
-            }
-            while (c[14] > 0) {
-                sb.append(1);
-                c[14]--;
-                c[13]--;
-                c[4]--;
-                count -= 3;
-            }
-            while (c[8] > 0) {
-                sb.append(9);
-                c[13] -= 2;
-                c[8]--;
-                c[4]--;
-                count -= 4;
+        nums[0] = arr['z' - 'a'];
+        arr['e' - 'a'] -= nums[0];
+        arr['r' - 'a'] -= nums[0];
+        arr['o' - 'a'] -= nums[0];
+        nums[6] = arr['x' - 'a'];
+        arr['s' - 'a'] -= nums[6];
+        arr['i' - 'a'] -= nums[6];
+        nums[7] = arr['s' - 'a'];
+        arr['e' - 'a'] -= 2 * nums[7];
+        arr['v' - 'a'] -= nums[7];
+        arr['n' - 'a'] -= nums[7];
+        nums[2] = arr['w' - 'a'];
+        arr['o' - 'a'] -= nums[2];
+        arr['t' - 'a'] -= nums[2];
+        nums[8] = arr['g' - 'a'];
+        arr['e' - 'a'] -= nums[8];
+        arr['i' - 'a'] -= nums[8];
+        arr['h' - 'a'] -= nums[8];
+        arr['t' - 'a'] -= nums[8];
+        nums[3] = arr['h' - 'a'];
+        arr['t' - 'a'] -= nums[3];
+        arr['h' - 'a'] -= nums[3];
+        arr['e' - 'a'] -= 2 * nums[3];
+        nums[4] = arr['u' - 'a'];
+        arr['f' - 'a'] -= nums[4];
+        arr['o' - 'a'] -= nums[4];
+        arr['r' - 'a'] -= nums[4];
+        nums[5] = arr['f' - 'a'];
+        arr['i' - 'a'] -= nums[5];
+        arr['v' - 'a'] -= nums[5];
+        arr['e' - 'a'] -= nums[5];
+        nums[1] = arr['o' - 'a'];
+        arr['n' - 'a'] -= nums[1];
+        arr['e' - 'a'] -= nums[1];
+        nums[9] = arr['e' - 'a'];
+        StringBuilder ss = new StringBuilder();
+        for (int i = 0; i < 10; i++) {
+            while (nums[i] > 0) {
+                ss.append(i);
+                nums[i]--;
             }
         }
-        char[] sort1=sb.toString().toCharArray();
-        Arrays.sort(sort1);
-        return new String(sort1);
+        return ss.toString();
     }
 }
