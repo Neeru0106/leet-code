@@ -8,6 +8,7 @@
 | [0717-1-bit-and-2-bit-characters](https://github.com/Neeru0106/leet-code/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0748-shortest-completing-word](https://github.com/Neeru0106/leet-code/tree/main/0748-shortest-completing-word/) | Easy |
 | [0860-lemonade-change](https://github.com/Neeru0106/leet-code/tree/main/0860-lemonade-change/) | Easy |
+| [1051-height-checker](https://github.com/Neeru0106/leet-code/tree/main/1051-height-checker/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Neeru0106/leet-code/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Neeru0106/leet-code/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Neeru0106/leet-code/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
@@ -67,6 +68,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0506-relative-ranks](https://github.com/Neeru0106/leet-code/tree/main/0506-relative-ranks/) | Easy |
+| [1051-height-checker](https://github.com/Neeru0106/leet-code/tree/main/1051-height-checker/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Neeru0106/leet-code/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Neeru0106/leet-code/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Neeru0106/leet-code/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
@@ -205,4 +207,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Neeru0106/leet-code/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1051-height-checker](https://github.com/Neeru0106/leet-code/tree/main/1051-height-checker/) | Easy |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1051-height-checker](https://github.com/Neeru0106/leet-code/tree/main/1051-height-checker/) | Easy |
 <!---LeetCode Topics End-->
