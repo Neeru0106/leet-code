@@ -121,6 +121,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Neeru0106/leet-code/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1925-count-square-sum-triples](https://github.com/Neeru0106/leet-code/tree/main/1925-count-square-sum-triples/) | Easy |
 | [2739-total-distance-traveled](https://github.com/Neeru0106/leet-code/tree/main/2739-total-distance-traveled/) | Easy |
+| [3560-find-minimum-log-transportation-cost](https://github.com/Neeru0106/leet-code/tree/main/3560-find-minimum-log-transportation-cost/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Neeru0106/leet-code/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Neeru0106/leet-code/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Neeru0106/leet-code/tree/main/3871-count-commas-in-range-ii/) | Medium |
