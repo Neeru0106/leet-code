@@ -47,6 +47,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Neeru0106/leet-code/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0020-valid-parentheses](https://github.com/Neeru0106/leet-code/tree/main/0020-valid-parentheses/) | Easy |
 | [0115-distinct-subsequences](https://github.com/Neeru0106/leet-code/tree/main/0115-distinct-subsequences/) | Hard |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Neeru0106/leet-code/tree/main/0423-reconstruct-original-digits-from-english/) | Medium |
 | [0443-string-compression](https://github.com/Neeru0106/leet-code/tree/main/0443-string-compression/) | Medium |
@@ -195,11 +196,13 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Neeru0106/leet-code/tree/main/0020-valid-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Neeru0106/leet-code/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Neeru0106/leet-code/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Neeru0106/leet-code/tree/main/0020-valid-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Neeru0106/leet-code/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
