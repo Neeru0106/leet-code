@@ -120,6 +120,7 @@
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Neeru0106/leet-code/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Neeru0106/leet-code/tree/main/1317-convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Neeru0106/leet-code/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/Neeru0106/leet-code/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1925-count-square-sum-triples](https://github.com/Neeru0106/leet-code/tree/main/1925-count-square-sum-triples/) | Easy |
 | [2739-total-distance-traveled](https://github.com/Neeru0106/leet-code/tree/main/2739-total-distance-traveled/) | Easy |
 | [3560-find-minimum-log-transportation-cost](https://github.com/Neeru0106/leet-code/tree/main/3560-find-minimum-log-transportation-cost/) | Easy |
