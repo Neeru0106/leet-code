@@ -11,6 +11,7 @@
 | [1051-height-checker](https://github.com/Neeru0106/leet-code/tree/main/1051-height-checker/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Neeru0106/leet-code/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Neeru0106/leet-code/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Neeru0106/leet-code/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Neeru0106/leet-code/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Neeru0106/leet-code/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Neeru0106/leet-code/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
@@ -88,6 +89,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Neeru0106/leet-code/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Neeru0106/leet-code/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
