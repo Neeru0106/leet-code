@@ -15,6 +15,7 @@
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Neeru0106/leet-code/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Neeru0106/leet-code/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Neeru0106/leet-code/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
+| [1646-get-maximum-in-generated-array](https://github.com/Neeru0106/leet-code/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [1720-decode-xored-array](https://github.com/Neeru0106/leet-code/tree/main/1720-decode-xored-array/) | Easy |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Neeru0106/leet-code/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Neeru0106/leet-code/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
@@ -94,6 +95,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1646-get-maximum-in-generated-array](https://github.com/Neeru0106/leet-code/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Neeru0106/leet-code/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Neeru0106/leet-code/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2739-total-distance-traveled](https://github.com/Neeru0106/leet-code/tree/main/2739-total-distance-traveled/) | Easy |
