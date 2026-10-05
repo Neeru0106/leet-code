@@ -174,6 +174,7 @@
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Neeru0106/leet-code/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Neeru0106/leet-code/tree/main/3315-construct-the-minimum-bitwise-array-ii/) | Medium |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Neeru0106/leet-code/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
+| [3827-count-monobit-integers](https://github.com/Neeru0106/leet-code/tree/main/3827-count-monobit-integers/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,6 +188,7 @@
 | ------- | ------- |
 | [1925-count-square-sum-triples](https://github.com/Neeru0106/leet-code/tree/main/1925-count-square-sum-triples/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Neeru0106/leet-code/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
+| [3827-count-monobit-integers](https://github.com/Neeru0106/leet-code/tree/main/3827-count-monobit-integers/) | Easy |
 | [3833-count-dominant-indices](https://github.com/Neeru0106/leet-code/tree/main/3833-count-dominant-indices/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
