@@ -64,6 +64,7 @@
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Neeru0106/leet-code/tree/main/1309-decrypt-string-from-alphabet-to-integer-mapping/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Neeru0106/leet-code/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Neeru0106/leet-code/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/Neeru0106/leet-code/tree/main/1859-sorting-the-sentence/) | Easy |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Neeru0106/leet-code/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Neeru0106/leet-code/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Neeru0106/leet-code/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
@@ -80,6 +81,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Neeru0106/leet-code/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Neeru0106/leet-code/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Neeru0106/leet-code/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/Neeru0106/leet-code/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Neeru0106/leet-code/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Neeru0106/leet-code/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Neeru0106/leet-code/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
@@ -243,6 +245,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1051-height-checker](https://github.com/Neeru0106/leet-code/tree/main/1051-height-checker/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/Neeru0106/leet-code/tree/main/1859-sorting-the-sentence/) | Easy |
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
