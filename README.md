@@ -64,6 +64,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/Neeru0106/leet-code/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Neeru0106/leet-code/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Neeru0106/leet-code/tree/main/1309-decrypt-string-from-alphabet-to-integer-mapping/) | Easy |
+| [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Neeru0106/leet-code/tree/main/1576-replace-all-s-to-avoid-consecutive-repeating-characters/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Neeru0106/leet-code/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Neeru0106/leet-code/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/Neeru0106/leet-code/tree/main/1859-sorting-the-sentence/) | Easy |
