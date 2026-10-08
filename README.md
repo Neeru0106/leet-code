@@ -28,6 +28,7 @@
 | [2500-delete-greatest-value-in-each-row](https://github.com/Neeru0106/leet-code/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Neeru0106/leet-code/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Neeru0106/leet-code/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+| [2848-points-that-intersect-with-cars](https://github.com/Neeru0106/leet-code/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Neeru0106/leet-code/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Neeru0106/leet-code/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Neeru0106/leet-code/tree/main/3000-maximum-area-of-longest-diagonal-rectangle/) | Easy |
@@ -49,6 +50,7 @@
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Neeru0106/leet-code/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Neeru0106/leet-code/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
+| [2848-points-that-intersect-with-cars](https://github.com/Neeru0106/leet-code/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Neeru0106/leet-code/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -159,6 +161,7 @@
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Neeru0106/leet-code/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Neeru0106/leet-code/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Neeru0106/leet-code/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+| [2848-points-that-intersect-with-cars](https://github.com/Neeru0106/leet-code/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Neeru0106/leet-code/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Neeru0106/leet-code/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Neeru0106/leet-code/tree/main/4048-count-values-with-equally-spaced-occurrences-i/) | Easy |
