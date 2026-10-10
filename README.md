@@ -22,6 +22,7 @@
 | [1720-decode-xored-array](https://github.com/Neeru0106/leet-code/tree/main/1720-decode-xored-array/) | Easy |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Neeru0106/leet-code/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Neeru0106/leet-code/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
+| [1929-concatenation-of-array](https://github.com/Neeru0106/leet-code/tree/main/1929-concatenation-of-array/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Neeru0106/leet-code/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Neeru0106/leet-code/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Neeru0106/leet-code/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -109,6 +110,7 @@
 | ------- | ------- |
 | [0999-available-captures-for-rook](https://github.com/Neeru0106/leet-code/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1646-get-maximum-in-generated-array](https://github.com/Neeru0106/leet-code/tree/main/1646-get-maximum-in-generated-array/) | Easy |
+| [1929-concatenation-of-array](https://github.com/Neeru0106/leet-code/tree/main/1929-concatenation-of-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Neeru0106/leet-code/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Neeru0106/leet-code/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2739-total-distance-traveled](https://github.com/Neeru0106/leet-code/tree/main/2739-total-distance-traveled/) | Easy |
