@@ -18,6 +18,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Neeru0106/leet-code/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Neeru0106/leet-code/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Neeru0106/leet-code/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/Neeru0106/leet-code/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1470-shuffle-the-array](https://github.com/Neeru0106/leet-code/tree/main/1470-shuffle-the-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Neeru0106/leet-code/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Neeru0106/leet-code/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -117,6 +118,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0999-available-captures-for-rook](https://github.com/Neeru0106/leet-code/tree/main/0999-available-captures-for-rook/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/Neeru0106/leet-code/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1646-get-maximum-in-generated-array](https://github.com/Neeru0106/leet-code/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Neeru0106/leet-code/tree/main/1929-concatenation-of-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Neeru0106/leet-code/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
@@ -247,6 +249,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Neeru0106/leet-code/tree/main/0020-valid-parentheses/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Neeru0106/leet-code/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1441-build-an-array-with-stack-operations](https://github.com/Neeru0106/leet-code/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Neeru0106/leet-code/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Neeru0106/leet-code/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 ## Bracket Sequences
