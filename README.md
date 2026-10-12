@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Neeru0106/leet-code/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Neeru0106/leet-code/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Neeru0106/leet-code/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0506-relative-ranks](https://github.com/Neeru0106/leet-code/tree/main/0506-relative-ranks/) | Easy |
@@ -144,6 +145,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Neeru0106/leet-code/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Neeru0106/leet-code/tree/main/0423-reconstruct-original-digits-from-english/) | Medium |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Neeru0106/leet-code/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Neeru0106/leet-code/tree/main/0836-rectangle-overlap/) | Easy |
@@ -248,6 +250,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Neeru0106/leet-code/tree/main/0020-valid-parentheses/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Neeru0106/leet-code/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Neeru0106/leet-code/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/Neeru0106/leet-code/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Neeru0106/leet-code/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
