@@ -46,6 +46,7 @@
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Neeru0106/leet-code/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Neeru0106/leet-code/tree/main/3315-construct-the-minimum-bitwise-array-ii/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/Neeru0106/leet-code/tree/main/3467-transform-array-by-parity/) | Easy |
+| [3606-coupon-code-validator](https://github.com/Neeru0106/leet-code/tree/main/3606-coupon-code-validator/) | Easy |
 | [3637-trionic-array-i](https://github.com/Neeru0106/leet-code/tree/main/3637-trionic-array-i/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Neeru0106/leet-code/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3833-count-dominant-indices](https://github.com/Neeru0106/leet-code/tree/main/3833-count-dominant-indices/) | Easy |
@@ -88,6 +89,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Neeru0106/leet-code/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Neeru0106/leet-code/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Neeru0106/leet-code/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3606-coupon-code-validator](https://github.com/Neeru0106/leet-code/tree/main/3606-coupon-code-validator/) | Easy |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/Neeru0106/leet-code/tree/main/3992-rearrange-string-to-avoid-character-pair/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -103,6 +105,7 @@
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Neeru0106/leet-code/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Neeru0106/leet-code/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Neeru0106/leet-code/tree/main/3467-transform-array-by-parity/) | Easy |
+| [3606-coupon-code-validator](https://github.com/Neeru0106/leet-code/tree/main/3606-coupon-code-validator/) | Easy |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Neeru0106/leet-code/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/Neeru0106/leet-code/tree/main/3992-rearrange-string-to-avoid-character-pair/) | Easy |
 ## Heap (Priority Queue)
@@ -184,6 +187,7 @@
 | [2848-points-that-intersect-with-cars](https://github.com/Neeru0106/leet-code/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Neeru0106/leet-code/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Neeru0106/leet-code/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
+| [3606-coupon-code-validator](https://github.com/Neeru0106/leet-code/tree/main/3606-coupon-code-validator/) | Easy |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Neeru0106/leet-code/tree/main/4048-count-values-with-equally-spaced-occurrences-i/) | Easy |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/Neeru0106/leet-code/tree/main/4049-count-values-with-equally-spaced-occurrences-ii/) | Medium |
 ## Counting
