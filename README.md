@@ -12,6 +12,7 @@
 | [0506-relative-ranks](https://github.com/Neeru0106/leet-code/tree/main/0506-relative-ranks/) | Easy |
 | [0645-set-mismatch](https://github.com/Neeru0106/leet-code/tree/main/0645-set-mismatch/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Neeru0106/leet-code/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
+| [0724-find-pivot-index](https://github.com/Neeru0106/leet-code/tree/main/0724-find-pivot-index/) | Easy |
 | [0748-shortest-completing-word](https://github.com/Neeru0106/leet-code/tree/main/0748-shortest-completing-word/) | Easy |
 | [0860-lemonade-change](https://github.com/Neeru0106/leet-code/tree/main/0860-lemonade-change/) | Easy |
 | [0999-available-captures-for-rook](https://github.com/Neeru0106/leet-code/tree/main/0999-available-captures-for-rook/) | Easy |
@@ -63,6 +64,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Neeru0106/leet-code/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0724-find-pivot-index](https://github.com/Neeru0106/leet-code/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Neeru0106/leet-code/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Neeru0106/leet-code/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/Neeru0106/leet-code/tree/main/2848-points-that-intersect-with-cars/) | Easy |
