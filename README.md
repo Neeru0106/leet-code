@@ -51,6 +51,7 @@
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Neeru0106/leet-code/tree/main/3315-construct-the-minimum-bitwise-array-ii/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/Neeru0106/leet-code/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3606-coupon-code-validator](https://github.com/Neeru0106/leet-code/tree/main/3606-coupon-code-validator/) | Easy |
+| [3618-split-array-by-prime-indices](https://github.com/Neeru0106/leet-code/tree/main/3618-split-array-by-prime-indices/) | Medium |
 | [3637-trionic-array-i](https://github.com/Neeru0106/leet-code/tree/main/3637-trionic-array-i/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Neeru0106/leet-code/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3833-count-dominant-indices](https://github.com/Neeru0106/leet-code/tree/main/3833-count-dominant-indices/) | Easy |
@@ -177,6 +178,7 @@
 | [1925-count-square-sum-triples](https://github.com/Neeru0106/leet-code/tree/main/1925-count-square-sum-triples/) | Easy |
 | [2739-total-distance-traveled](https://github.com/Neeru0106/leet-code/tree/main/2739-total-distance-traveled/) | Easy |
 | [3560-find-minimum-log-transportation-cost](https://github.com/Neeru0106/leet-code/tree/main/3560-find-minimum-log-transportation-cost/) | Easy |
+| [3618-split-array-by-prime-indices](https://github.com/Neeru0106/leet-code/tree/main/3618-split-array-by-prime-indices/) | Medium |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Neeru0106/leet-code/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Neeru0106/leet-code/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Neeru0106/leet-code/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -258,6 +260,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3618-split-array-by-prime-indices](https://github.com/Neeru0106/leet-code/tree/main/3618-split-array-by-prime-indices/) | Medium |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Neeru0106/leet-code/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Neeru0106/leet-code/tree/main/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
 ## Greedy
