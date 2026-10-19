@@ -179,6 +179,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Neeru0106/leet-code/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Neeru0106/leet-code/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1925-count-square-sum-triples](https://github.com/Neeru0106/leet-code/tree/main/1925-count-square-sum-triples/) | Easy |
+| [1952-three-divisors](https://github.com/Neeru0106/leet-code/tree/main/1952-three-divisors/) | Easy |
 | [2739-total-distance-traveled](https://github.com/Neeru0106/leet-code/tree/main/2739-total-distance-traveled/) | Easy |
 | [3560-find-minimum-log-transportation-cost](https://github.com/Neeru0106/leet-code/tree/main/3560-find-minimum-log-transportation-cost/) | Easy |
 | [3618-split-array-by-prime-indices](https://github.com/Neeru0106/leet-code/tree/main/3618-split-array-by-prime-indices/) | Medium |
@@ -247,6 +248,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1925-count-square-sum-triples](https://github.com/Neeru0106/leet-code/tree/main/1925-count-square-sum-triples/) | Easy |
+| [1952-three-divisors](https://github.com/Neeru0106/leet-code/tree/main/1952-three-divisors/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Neeru0106/leet-code/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Neeru0106/leet-code/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3827-count-monobit-integers](https://github.com/Neeru0106/leet-code/tree/main/3827-count-monobit-integers/) | Easy |
@@ -264,6 +266,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1952-three-divisors](https://github.com/Neeru0106/leet-code/tree/main/1952-three-divisors/) | Easy |
 | [3618-split-array-by-prime-indices](https://github.com/Neeru0106/leet-code/tree/main/3618-split-array-by-prime-indices/) | Medium |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Neeru0106/leet-code/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Neeru0106/leet-code/tree/main/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
@@ -318,4 +321,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Neeru0106/leet-code/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+## Prime Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1952-three-divisors](https://github.com/Neeru0106/leet-code/tree/main/1952-three-divisors/) | Easy |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1952-three-divisors](https://github.com/Neeru0106/leet-code/tree/main/1952-three-divisors/) | Easy |
 <!---LeetCode Topics End-->
