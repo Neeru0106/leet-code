@@ -7,7 +7,7 @@ class Solution {
             if(nums[i]<target){
                 count1++;
             } 
-            if(nums[i]==target){
+            if((nums[i]^target)==0){
                 count2++;
             }
         }
