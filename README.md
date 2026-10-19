@@ -36,6 +36,7 @@
 | [1929-concatenation-of-array](https://github.com/Neeru0106/leet-code/tree/main/1929-concatenation-of-array/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Neeru0106/leet-code/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Neeru0106/leet-code/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Neeru0106/leet-code/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Neeru0106/leet-code/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2401-longest-nice-subarray](https://github.com/Neeru0106/leet-code/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Neeru0106/leet-code/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
@@ -113,6 +114,7 @@
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Neeru0106/leet-code/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Neeru0106/leet-code/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/Neeru0106/leet-code/tree/main/1859-sorting-the-sentence/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Neeru0106/leet-code/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Neeru0106/leet-code/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Neeru0106/leet-code/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Neeru0106/leet-code/tree/main/3467-transform-array-by-parity/) | Easy |
@@ -256,6 +258,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Neeru0106/leet-code/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Neeru0106/leet-code/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Neeru0106/leet-code/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
