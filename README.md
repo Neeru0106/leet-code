@@ -7,6 +7,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Neeru0106/leet-code/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Neeru0106/leet-code/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Neeru0106/leet-code/tree/main/0283-move-zeroes/) | Easy |
+| [0334-increasing-triplet-subsequence](https://github.com/Neeru0106/leet-code/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Neeru0106/leet-code/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Neeru0106/leet-code/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0506-relative-ranks](https://github.com/Neeru0106/leet-code/tree/main/0506-relative-ranks/) | Easy |
@@ -269,6 +270,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Neeru0106/leet-code/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0860-lemonade-change](https://github.com/Neeru0106/leet-code/tree/main/0860-lemonade-change/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Neeru0106/leet-code/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Neeru0106/leet-code/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
@@ -312,4 +314,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/Neeru0106/leet-code/tree/main/1143-longest-common-subsequence/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Neeru0106/leet-code/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 <!---LeetCode Topics End-->
