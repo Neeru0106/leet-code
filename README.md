@@ -32,6 +32,7 @@
 | [1646-get-maximum-in-generated-array](https://github.com/Neeru0106/leet-code/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/Neeru0106/leet-code/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1720-decode-xored-array](https://github.com/Neeru0106/leet-code/tree/main/1720-decode-xored-array/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/Neeru0106/leet-code/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Neeru0106/leet-code/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Neeru0106/leet-code/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Neeru0106/leet-code/tree/main/1929-concatenation-of-array/) | Easy |
@@ -70,6 +71,7 @@
 | [0238-product-of-array-except-self](https://github.com/Neeru0106/leet-code/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/Neeru0106/leet-code/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Neeru0106/leet-code/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/Neeru0106/leet-code/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Neeru0106/leet-code/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/Neeru0106/leet-code/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Neeru0106/leet-code/tree/main/3904-smallest-stable-index-ii/) | Medium |
