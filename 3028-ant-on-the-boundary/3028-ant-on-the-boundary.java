@@ -1,13 +1,15 @@
-class Solution {
-    public int returnToBoundaryCount(int[] nums) {
-        int sum=0;
-        int count=0;
-        for(int n:nums){
-            sum+=n;
-            if(sum==0){
-                count++;
-            }
+class Solution 
+{
+    public int returnToBoundaryCount(int[] nums) 
+    {
+        int ans = 0;
+        int pos=0;
+        for (int i=0;i<nums.length;i++) 
+        {
+            pos+=nums[i]; 
+            if (pos== 0) 
+                ans++; 
         }
-        return count;
+        return ans;
     }
 }
