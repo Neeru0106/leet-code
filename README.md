@@ -52,6 +52,7 @@
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Neeru0106/leet-code/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Neeru0106/leet-code/tree/main/3000-maximum-area-of-longest-diagonal-rectangle/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Neeru0106/leet-code/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+| [3028-ant-on-the-boundary](https://github.com/Neeru0106/leet-code/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Neeru0106/leet-code/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Neeru0106/leet-code/tree/main/3315-construct-the-minimum-bitwise-array-ii/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/Neeru0106/leet-code/tree/main/3467-transform-array-by-parity/) | Easy |
@@ -75,6 +76,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Neeru0106/leet-code/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Neeru0106/leet-code/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/Neeru0106/leet-code/tree/main/2848-points-that-intersect-with-cars/) | Easy |
+| [3028-ant-on-the-boundary](https://github.com/Neeru0106/leet-code/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Neeru0106/leet-code/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -150,6 +152,7 @@
 | [2500-delete-greatest-value-in-each-row](https://github.com/Neeru0106/leet-code/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2739-total-distance-traveled](https://github.com/Neeru0106/leet-code/tree/main/2739-total-distance-traveled/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Neeru0106/leet-code/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+| [3028-ant-on-the-boundary](https://github.com/Neeru0106/leet-code/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Neeru0106/leet-code/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Neeru0106/leet-code/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Neeru0106/leet-code/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
