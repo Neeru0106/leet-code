@@ -1,9 +1,8 @@
 class Solution {
     public int countPartitions(int[] nums) {
-        int totalSum = 0;
-        for (int num : nums) {
-            totalSum += num;
-        }
-        return (totalSum % 2 == 0) ? nums.length - 1 : 0;
+        int sum = 0;
+        for(int c : nums) sum+=c;
+        if(sum % 2 == 0) return nums.length-1;
+        return 0;
     }
 }
