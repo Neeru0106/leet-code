@@ -55,6 +55,7 @@
 | [3028-ant-on-the-boundary](https://github.com/Neeru0106/leet-code/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Neeru0106/leet-code/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Neeru0106/leet-code/tree/main/3315-construct-the-minimum-bitwise-array-ii/) | Medium |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Neeru0106/leet-code/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Neeru0106/leet-code/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3606-coupon-code-validator](https://github.com/Neeru0106/leet-code/tree/main/3606-coupon-code-validator/) | Easy |
 | [3618-split-array-by-prime-indices](https://github.com/Neeru0106/leet-code/tree/main/3618-split-array-by-prime-indices/) | Medium |
@@ -77,6 +78,7 @@
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Neeru0106/leet-code/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/Neeru0106/leet-code/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/Neeru0106/leet-code/tree/main/3028-ant-on-the-boundary/) | Easy |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Neeru0106/leet-code/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Neeru0106/leet-code/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -190,6 +192,7 @@
 | [1952-three-divisors](https://github.com/Neeru0106/leet-code/tree/main/1952-three-divisors/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Neeru0106/leet-code/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2739-total-distance-traveled](https://github.com/Neeru0106/leet-code/tree/main/2739-total-distance-traveled/) | Easy |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Neeru0106/leet-code/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3560-find-minimum-log-transportation-cost](https://github.com/Neeru0106/leet-code/tree/main/3560-find-minimum-log-transportation-cost/) | Easy |
 | [3618-split-array-by-prime-indices](https://github.com/Neeru0106/leet-code/tree/main/3618-split-array-by-prime-indices/) | Medium |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Neeru0106/leet-code/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
