@@ -19,6 +19,7 @@
 | [0999-available-captures-for-rook](https://github.com/Neeru0106/leet-code/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Neeru0106/leet-code/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1051-height-checker](https://github.com/Neeru0106/leet-code/tree/main/1051-height-checker/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/Neeru0106/leet-code/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Neeru0106/leet-code/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Neeru0106/leet-code/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Neeru0106/leet-code/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -208,6 +209,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Neeru0106/leet-code/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/Neeru0106/leet-code/tree/main/0645-set-mismatch/) | Easy |
 | [0748-shortest-completing-word](https://github.com/Neeru0106/leet-code/tree/main/0748-shortest-completing-word/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/Neeru0106/leet-code/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Neeru0106/leet-code/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Neeru0106/leet-code/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Neeru0106/leet-code/tree/main/1512-number-of-good-pairs/) | Easy |
