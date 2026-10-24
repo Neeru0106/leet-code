@@ -107,6 +107,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Neeru0106/leet-code/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Neeru0106/leet-code/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Neeru0106/leet-code/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
+| [2409-count-days-spent-together](https://github.com/Neeru0106/leet-code/tree/main/2409-count-days-spent-together/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Neeru0106/leet-code/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Neeru0106/leet-code/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Neeru0106/leet-code/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -191,6 +192,7 @@
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Neeru0106/leet-code/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1925-count-square-sum-triples](https://github.com/Neeru0106/leet-code/tree/main/1925-count-square-sum-triples/) | Easy |
 | [1952-three-divisors](https://github.com/Neeru0106/leet-code/tree/main/1952-three-divisors/) | Easy |
+| [2409-count-days-spent-together](https://github.com/Neeru0106/leet-code/tree/main/2409-count-days-spent-together/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Neeru0106/leet-code/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2739-total-distance-traveled](https://github.com/Neeru0106/leet-code/tree/main/2739-total-distance-traveled/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Neeru0106/leet-code/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
