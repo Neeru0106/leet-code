@@ -4,9 +4,7 @@ class Solution {
         for(int i=0;i<m;i++){
             Arrays.fill(ans[i],'#');
         }
-        for(int i=0;i<n;i++){
-            Arrays.fill(ans[0],'.');
-        }
+        Arrays.fill(ans[0],'.');
         for(int i=0;i<m;i++){
             ans[i][n-1]='.';
         }
