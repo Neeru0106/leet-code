@@ -43,6 +43,7 @@
 | [2073-time-needed-to-buy-tickets](https://github.com/Neeru0106/leet-code/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Neeru0106/leet-code/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Neeru0106/leet-code/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Neeru0106/leet-code/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2401-longest-nice-subarray](https://github.com/Neeru0106/leet-code/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Neeru0106/leet-code/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Neeru0106/leet-code/tree/main/2614-prime-in-diagonal/) | Easy |
@@ -221,6 +222,7 @@
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Neeru0106/leet-code/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Neeru0106/leet-code/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Neeru0106/leet-code/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Neeru0106/leet-code/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Neeru0106/leet-code/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Neeru0106/leet-code/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Neeru0106/leet-code/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
