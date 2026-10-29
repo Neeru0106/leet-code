@@ -16,7 +16,7 @@ class Solution {
                     if(n1+n2+n3<=100 && freq[n1+n2+n3]){
                         int sum=n1+n2+n3;
                         for(int l=k+1;l<n;l++){
-                            if(nums[l]==n1+n2+n3)
+                            if(nums[l]==sum)
                                 count++;
                         }
                     }
