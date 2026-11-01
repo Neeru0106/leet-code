@@ -14,6 +14,7 @@
 | [0645-set-mismatch](https://github.com/Neeru0106/leet-code/tree/main/0645-set-mismatch/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Neeru0106/leet-code/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0724-find-pivot-index](https://github.com/Neeru0106/leet-code/tree/main/0724-find-pivot-index/) | Easy |
+| [0735-asteroid-collision](https://github.com/Neeru0106/leet-code/tree/main/0735-asteroid-collision/) | Medium |
 | [0748-shortest-completing-word](https://github.com/Neeru0106/leet-code/tree/main/0748-shortest-completing-word/) | Easy |
 | [0860-lemonade-change](https://github.com/Neeru0106/leet-code/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Neeru0106/leet-code/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -152,6 +153,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0735-asteroid-collision](https://github.com/Neeru0106/leet-code/tree/main/0735-asteroid-collision/) | Medium |
 | [0999-available-captures-for-rook](https://github.com/Neeru0106/leet-code/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/Neeru0106/leet-code/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1646-get-maximum-in-generated-array](https://github.com/Neeru0106/leet-code/tree/main/1646-get-maximum-in-generated-array/) | Easy |
@@ -309,6 +311,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Neeru0106/leet-code/tree/main/0020-valid-parentheses/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Neeru0106/leet-code/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0735-asteroid-collision](https://github.com/Neeru0106/leet-code/tree/main/0735-asteroid-collision/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Neeru0106/leet-code/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/Neeru0106/leet-code/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Neeru0106/leet-code/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
