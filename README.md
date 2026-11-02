@@ -46,6 +46,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Neeru0106/leet-code/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Neeru0106/leet-code/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Neeru0106/leet-code/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Neeru0106/leet-code/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2401-longest-nice-subarray](https://github.com/Neeru0106/leet-code/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Neeru0106/leet-code/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Neeru0106/leet-code/tree/main/2614-prime-in-diagonal/) | Easy |
@@ -132,6 +133,7 @@
 | [1859-sorting-the-sentence](https://github.com/Neeru0106/leet-code/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Neeru0106/leet-code/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Neeru0106/leet-code/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Neeru0106/leet-code/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Neeru0106/leet-code/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Neeru0106/leet-code/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3606-coupon-code-validator](https://github.com/Neeru0106/leet-code/tree/main/3606-coupon-code-validator/) | Easy |
@@ -175,6 +177,7 @@
 | [0392-is-subsequence](https://github.com/Neeru0106/leet-code/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/Neeru0106/leet-code/tree/main/0443-string-compression/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Neeru0106/leet-code/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Neeru0106/leet-code/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Neeru0106/leet-code/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/Neeru0106/leet-code/tree/main/3992-rearrange-string-to-avoid-character-pair/) | Easy |
 ## Dynamic Programming
@@ -289,6 +292,7 @@
 | [0875-koko-eating-bananas](https://github.com/Neeru0106/leet-code/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Neeru0106/leet-code/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Neeru0106/leet-code/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Neeru0106/leet-code/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Neeru0106/leet-code/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
