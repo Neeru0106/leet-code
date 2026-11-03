@@ -67,6 +67,7 @@
 | [3618-split-array-by-prime-indices](https://github.com/Neeru0106/leet-code/tree/main/3618-split-array-by-prime-indices/) | Medium |
 | [3637-trionic-array-i](https://github.com/Neeru0106/leet-code/tree/main/3637-trionic-array-i/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Neeru0106/leet-code/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Neeru0106/leet-code/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3833-count-dominant-indices](https://github.com/Neeru0106/leet-code/tree/main/3833-count-dominant-indices/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/Neeru0106/leet-code/tree/main/3861-minimum-capacity-box/) | Easy |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Neeru0106/leet-code/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
@@ -208,6 +209,7 @@
 | [3560-find-minimum-log-transportation-cost](https://github.com/Neeru0106/leet-code/tree/main/3560-find-minimum-log-transportation-cost/) | Easy |
 | [3618-split-array-by-prime-indices](https://github.com/Neeru0106/leet-code/tree/main/3618-split-array-by-prime-indices/) | Medium |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Neeru0106/leet-code/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Neeru0106/leet-code/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Neeru0106/leet-code/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Neeru0106/leet-code/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Neeru0106/leet-code/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
