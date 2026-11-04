@@ -30,6 +30,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/Neeru0106/leet-code/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1470-shuffle-the-array](https://github.com/Neeru0106/leet-code/tree/main/1470-shuffle-the-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Neeru0106/leet-code/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Neeru0106/leet-code/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Neeru0106/leet-code/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Neeru0106/leet-code/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Neeru0106/leet-code/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
@@ -188,6 +189,7 @@
 | [0392-is-subsequence](https://github.com/Neeru0106/leet-code/tree/main/0392-is-subsequence/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/Neeru0106/leet-code/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Neeru0106/leet-code/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Neeru0106/leet-code/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -333,6 +335,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Neeru0106/leet-code/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Neeru0106/leet-code/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Neeru0106/leet-code/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Neeru0106/leet-code/tree/main/1652-defuse-the-bomb/) | Easy |
 | [2401-longest-nice-subarray](https://github.com/Neeru0106/leet-code/tree/main/2401-longest-nice-subarray/) | Medium |
 ## Backtracking
