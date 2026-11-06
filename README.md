@@ -57,6 +57,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/Neeru0106/leet-code/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/Neeru0106/leet-code/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Neeru0106/leet-code/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
+| [2908-minimum-sum-of-mountain-triplets-i](https://github.com/Neeru0106/leet-code/tree/main/2908-minimum-sum-of-mountain-triplets-i/) | Easy |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Neeru0106/leet-code/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Neeru0106/leet-code/tree/main/3000-maximum-area-of-longest-diagonal-rectangle/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Neeru0106/leet-code/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
