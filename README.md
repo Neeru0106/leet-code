@@ -57,6 +57,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/Neeru0106/leet-code/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/Neeru0106/leet-code/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Neeru0106/leet-code/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Neeru0106/leet-code/tree/main/2873-maximum-value-of-an-ordered-triplet-i/) | Easy |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/Neeru0106/leet-code/tree/main/2908-minimum-sum-of-mountain-triplets-i/) | Easy |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/Neeru0106/leet-code/tree/main/2909-minimum-sum-of-mountain-triplets-ii/) | Medium |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Neeru0106/leet-code/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
@@ -88,6 +89,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Neeru0106/leet-code/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Neeru0106/leet-code/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/Neeru0106/leet-code/tree/main/2848-points-that-intersect-with-cars/) | Easy |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Neeru0106/leet-code/tree/main/2873-maximum-value-of-an-ordered-triplet-i/) | Easy |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/Neeru0106/leet-code/tree/main/2909-minimum-sum-of-mountain-triplets-ii/) | Medium |
 | [3028-ant-on-the-boundary](https://github.com/Neeru0106/leet-code/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Neeru0106/leet-code/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
