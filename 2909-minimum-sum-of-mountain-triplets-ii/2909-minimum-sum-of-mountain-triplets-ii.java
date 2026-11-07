@@ -1,27 +1,23 @@
 class Solution {
     public int minimumSum(int[] nums) {
         int n=nums.length;
-        int[] left=new int[n];
-        left[0]=nums[0];
-        int sum=Integer.MAX_VALUE;
-        boolean isT=false;
-        int[] right=new int[n];
-        right[n-1]=nums[n-1];
-        for(int i=1;i<n;i++){
+        int[] left = new int[n];
+        int[] right = new int[n];
+        left[0]=Integer.MAX_VALUE;
+        right[n-1]=Integer.MAX_VALUE;
+        int i=1,j=n-2;
+        while(i<n && j>=0){
             left[i]=Math.min(left[i-1],nums[i-1]);
+            right[j]=Math.min(right[j+1],nums[j+1]);
+            i++;
+            j--;
         }
-        for(int i=n-2;i>=0;i--){
-            right[i]=Math.min(right[i+1],nums[i+1]);
-        }
-        for(int i=1;i<n-1;i++){
-            if(nums[i]>left[i] && nums[i]>right[i]){
-                sum=Math.min(sum,nums[i]+left[i]+right[i]);
-                isT=true;
+        int mini=Integer.MAX_VALUE;
+        for(int k=1;k<n-1;k++){
+            if(left[k]<nums[k] && nums[k]>right[k]){
+                mini=Math.min(mini,left[k]+nums[k]+right[k]);
             }
         }
-        if(isT){
-            return sum;
-        }
-        return -1;
+        return mini==Integer.MAX_VALUE?-1:mini;
     }
 }
