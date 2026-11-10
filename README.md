@@ -103,6 +103,7 @@
 | [0020-valid-parentheses](https://github.com/Neeru0106/leet-code/tree/main/0020-valid-parentheses/) | Easy |
 | [0115-distinct-subsequences](https://github.com/Neeru0106/leet-code/tree/main/0115-distinct-subsequences/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/Neeru0106/leet-code/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0205-isomorphic-strings](https://github.com/Neeru0106/leet-code/tree/main/0205-isomorphic-strings/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Neeru0106/leet-code/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Neeru0106/leet-code/tree/main/0392-is-subsequence/) | Easy |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Neeru0106/leet-code/tree/main/0423-reconstruct-original-digits-from-english/) | Medium |
@@ -231,6 +232,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Neeru0106/leet-code/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0205-isomorphic-strings](https://github.com/Neeru0106/leet-code/tree/main/0205-isomorphic-strings/) | Easy |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Neeru0106/leet-code/tree/main/0423-reconstruct-original-digits-from-english/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Neeru0106/leet-code/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/Neeru0106/leet-code/tree/main/0645-set-mismatch/) | Easy |
