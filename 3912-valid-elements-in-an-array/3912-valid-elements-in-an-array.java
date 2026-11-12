@@ -1,22 +1,29 @@
 class Solution {
     public List<Integer> findValidElements(int[] nums) {
-        int n=nums.length;
-        int[] left=new int[n];
-        int[] right=new int[n];
-        int maxL=0;
-        int maxR=0;
-        for(int i=0;i<n;i++){
-            left[i]=maxL;
-            right[n-i-1]=maxR;
-            maxL=Math.max(maxL,nums[i]);
-            maxR=Math.max(maxR,nums[n-i-1]);
+        int[] maxleft=new int[nums.length];
+        int mxl=nums[0];
+        maxleft[0]=mxl;
+        for(int i=1;i<nums.length;i++){
+            if(nums[i]>mxl){mxl=nums[i];}
+            maxleft[i]=mxl;
         }
-        List<Integer> list=new ArrayList<>();
-        for(int i=0;i<n;i++){
-            if(nums[i]>left[i] || nums[i]>right[i]){
-                list.add(nums[i]);
+        int[] maxright=new int[nums.length];
+        int mxr=nums[nums.length-1];
+        maxright[nums.length-1]=mxr;
+        for(int i=nums.length-2;i>=0;i--){
+            if(nums[i]>mxr){mxr=nums[i];}
+            maxright[i]=mxr;
+        }
+        List<Integer> ans=new ArrayList<>();
+        for(int i=0;i<nums.length;i++){
+            if(i==0 || i==nums.length-1){
+                ans.add(nums[i]);
+                continue;
+            }
+            if(maxleft[i]>maxleft[i-1] || maxright[i]>maxright[i+1]){
+                ans.add(nums[i]);
             }
         }
-        return list;
+        return ans;
     }
 }
