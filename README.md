@@ -118,6 +118,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Neeru0106/leet-code/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Neeru0106/leet-code/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/Neeru0106/leet-code/tree/main/1859-sorting-the-sentence/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Neeru0106/leet-code/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Neeru0106/leet-code/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Neeru0106/leet-code/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Neeru0106/leet-code/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -242,6 +243,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Neeru0106/leet-code/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Neeru0106/leet-code/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Neeru0106/leet-code/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Neeru0106/leet-code/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Neeru0106/leet-code/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [1995-count-special-quadruplets](https://github.com/Neeru0106/leet-code/tree/main/1995-count-special-quadruplets/) | Easy |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Neeru0106/leet-code/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
@@ -261,6 +263,7 @@
 | [1267-count-servers-that-communicate](https://github.com/Neeru0106/leet-code/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Neeru0106/leet-code/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Neeru0106/leet-code/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Neeru0106/leet-code/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Neeru0106/leet-code/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Neeru0106/leet-code/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Neeru0106/leet-code/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
@@ -351,6 +354,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Neeru0106/leet-code/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Neeru0106/leet-code/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Neeru0106/leet-code/tree/main/1652-defuse-the-bomb/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Neeru0106/leet-code/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2401-longest-nice-subarray](https://github.com/Neeru0106/leet-code/tree/main/2401-longest-nice-subarray/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
