@@ -78,6 +78,7 @@
 | [3861-minimum-capacity-box](https://github.com/Neeru0106/leet-code/tree/main/3861-minimum-capacity-box/) | Easy |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Neeru0106/leet-code/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
 | [3904-smallest-stable-index-ii](https://github.com/Neeru0106/leet-code/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3912-valid-elements-in-an-array](https://github.com/Neeru0106/leet-code/tree/main/3912-valid-elements-in-an-array/) | Easy |
 | [3996-even-number-of-knight-moves](https://github.com/Neeru0106/leet-code/tree/main/3996-even-number-of-knight-moves/) | Easy |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Neeru0106/leet-code/tree/main/4048-count-values-with-equally-spaced-occurrences-i/) | Easy |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/Neeru0106/leet-code/tree/main/4049-count-values-with-equally-spaced-occurrences-ii/) | Medium |
