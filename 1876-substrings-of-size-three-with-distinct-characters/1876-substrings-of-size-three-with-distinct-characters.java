@@ -1,21 +1,18 @@
+import java.util.*;
 class Solution {
-    public int countGoodSubstrings(String s) {
-        int n=s.length();
-        if(n<3){
-            return 0;
+    public int countGoodSubstrings(String string) {
+        if(string.length() < 3) return 0;
+        char[] s = string.toCharArray();
+        char a=s[0], b=s[1], c=s[2];
+        int k=3,count=0,n=string.length();
+        for(int i=k; i<n; i++){
+            if(a!=b && b!=c && c!=a) count++;
+            a=b;
+            b=c;
+            c=s[i];
         }
-        int count=0;
-        char[] c=s.toCharArray();
-        for(int i=2;i<n;i++){
-            char c1=c[i-2];
-            char c2=c[i-1];
-            char c3=c[i];
-            if(c1==c2 || c2==c3|| c1==c3){
-                continue;
-            } else{
-                count++;
-            }
-        }
+        if(a!=b && b!=c && c!=a) count++;
         return count;
+
     }
 }
