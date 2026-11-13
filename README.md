@@ -61,6 +61,7 @@
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Neeru0106/leet-code/tree/main/2873-maximum-value-of-an-ordered-triplet-i/) | Easy |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/Neeru0106/leet-code/tree/main/2908-minimum-sum-of-mountain-triplets-i/) | Easy |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/Neeru0106/leet-code/tree/main/2909-minimum-sum-of-mountain-triplets-ii/) | Medium |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Neeru0106/leet-code/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Neeru0106/leet-code/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Neeru0106/leet-code/tree/main/3000-maximum-area-of-longest-diagonal-rectangle/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Neeru0106/leet-code/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -254,6 +255,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Neeru0106/leet-code/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Neeru0106/leet-code/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/Neeru0106/leet-code/tree/main/2848-points-that-intersect-with-cars/) | Easy |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Neeru0106/leet-code/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Neeru0106/leet-code/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Neeru0106/leet-code/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3606-coupon-code-validator](https://github.com/Neeru0106/leet-code/tree/main/3606-coupon-code-validator/) | Easy |
@@ -280,6 +282,7 @@
 | [2401-longest-nice-subarray](https://github.com/Neeru0106/leet-code/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Neeru0106/leet-code/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Neeru0106/leet-code/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Neeru0106/leet-code/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Neeru0106/leet-code/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Neeru0106/leet-code/tree/main/3226-number-of-bit-changes-to-make-two-integers-equal/) | Easy |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Neeru0106/leet-code/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
@@ -358,6 +361,7 @@
 | [1652-defuse-the-bomb](https://github.com/Neeru0106/leet-code/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Neeru0106/leet-code/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2401-longest-nice-subarray](https://github.com/Neeru0106/leet-code/tree/main/2401-longest-nice-subarray/) | Medium |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Neeru0106/leet-code/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -400,4 +404,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1267-count-servers-that-communicate](https://github.com/Neeru0106/leet-code/tree/main/1267-count-servers-that-communicate/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Neeru0106/leet-code/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 <!---LeetCode Topics End-->
