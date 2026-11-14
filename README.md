@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Neeru0106/leet-code/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/Neeru0106/leet-code/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Neeru0106/leet-code/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Neeru0106/leet-code/tree/main/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/Neeru0106/leet-code/tree/main/0334-increasing-triplet-subsequence/) | Medium |
@@ -136,6 +137,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Neeru0106/leet-code/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0506-relative-ranks](https://github.com/Neeru0106/leet-code/tree/main/0506-relative-ranks/) | Easy |
 | [0645-set-mismatch](https://github.com/Neeru0106/leet-code/tree/main/0645-set-mismatch/) | Easy |
 | [1051-height-checker](https://github.com/Neeru0106/leet-code/tree/main/1051-height-checker/) | Easy |
@@ -157,6 +159,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Neeru0106/leet-code/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0506-relative-ranks](https://github.com/Neeru0106/leet-code/tree/main/0506-relative-ranks/) | Easy |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Neeru0106/leet-code/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Neeru0106/leet-code/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
@@ -408,4 +411,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Neeru0106/leet-code/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Neeru0106/leet-code/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Neeru0106/leet-code/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
