@@ -7,6 +7,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Neeru0106/leet-code/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Neeru0106/leet-code/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Neeru0106/leet-code/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0268-missing-number](https://github.com/Neeru0106/leet-code/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Neeru0106/leet-code/tree/main/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/Neeru0106/leet-code/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Neeru0106/leet-code/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -138,6 +139,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Neeru0106/leet-code/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0268-missing-number](https://github.com/Neeru0106/leet-code/tree/main/0268-missing-number/) | Easy |
 | [0506-relative-ranks](https://github.com/Neeru0106/leet-code/tree/main/0506-relative-ranks/) | Easy |
 | [0645-set-mismatch](https://github.com/Neeru0106/leet-code/tree/main/0645-set-mismatch/) | Easy |
 | [1051-height-checker](https://github.com/Neeru0106/leet-code/tree/main/1051-height-checker/) | Easy |
@@ -212,6 +214,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Neeru0106/leet-code/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0268-missing-number](https://github.com/Neeru0106/leet-code/tree/main/0268-missing-number/) | Easy |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Neeru0106/leet-code/tree/main/0423-reconstruct-original-digits-from-english/) | Medium |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Neeru0106/leet-code/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Neeru0106/leet-code/tree/main/0836-rectangle-overlap/) | Easy |
@@ -240,6 +243,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Neeru0106/leet-code/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Neeru0106/leet-code/tree/main/0205-isomorphic-strings/) | Easy |
+| [0268-missing-number](https://github.com/Neeru0106/leet-code/tree/main/0268-missing-number/) | Easy |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Neeru0106/leet-code/tree/main/0423-reconstruct-original-digits-from-english/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Neeru0106/leet-code/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/Neeru0106/leet-code/tree/main/0645-set-mismatch/) | Easy |
@@ -278,6 +282,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/Neeru0106/leet-code/tree/main/0268-missing-number/) | Easy |
 | [0645-set-mismatch](https://github.com/Neeru0106/leet-code/tree/main/0645-set-mismatch/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Neeru0106/leet-code/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [1720-decode-xored-array](https://github.com/Neeru0106/leet-code/tree/main/1720-decode-xored-array/) | Easy |
@@ -317,6 +322,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/Neeru0106/leet-code/tree/main/0268-missing-number/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Neeru0106/leet-code/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Neeru0106/leet-code/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Neeru0106/leet-code/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
