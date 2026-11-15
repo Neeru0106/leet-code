@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/Neeru0106/leet-code/tree/main/0041-first-missing-positive/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Neeru0106/leet-code/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Neeru0106/leet-code/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Neeru0106/leet-code/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -242,6 +243,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Neeru0106/leet-code/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0041-first-missing-positive](https://github.com/Neeru0106/leet-code/tree/main/0041-first-missing-positive/) | Hard |
 | [0205-isomorphic-strings](https://github.com/Neeru0106/leet-code/tree/main/0205-isomorphic-strings/) | Easy |
 | [0268-missing-number](https://github.com/Neeru0106/leet-code/tree/main/0268-missing-number/) | Easy |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Neeru0106/leet-code/tree/main/0423-reconstruct-original-digits-from-english/) | Medium |
