@@ -1,28 +1,15 @@
 class Solution {
-    public int Csort(int[] arr){
-        int i=0;
-        int n=arr.length;
-        while(i<n){
-            int correct=arr[i];
-            if(arr[i]<n && arr[i]!=arr[correct]){
-                swap(arr,i,correct);
-            } else{
-                i++;
-            }
+    public int missingNumber(int[] nums) {
+        int n=nums.length;
+        boolean[] arr=new boolean[n+1];
+        for(int i:nums){
+            arr[i]=true;
         }
-        for(int j=0;j<n;j++){
-            if(arr[j]!=j){
-                return j;
+        for(int i=0;i<=n;i++){
+            if(!arr[i]){
+                return i;
             }
         }
         return n;
-    }
-    void swap(int[] arr,int i,int j){
-        int temp=arr[i];
-        arr[i]=arr[j];
-        arr[j]=temp;
-    }
-    public int missingNumber(int[] nums) {
-        return Csort(nums);
     }
 }
