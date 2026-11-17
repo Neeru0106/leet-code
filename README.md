@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/Neeru0106/leet-code/tree/main/0041-first-missing-positive/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Neeru0106/leet-code/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0162-find-peak-element](https://github.com/Neeru0106/leet-code/tree/main/0162-find-peak-element/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Neeru0106/leet-code/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Neeru0106/leet-code/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Neeru0106/leet-code/tree/main/0268-missing-number/) | Easy |
@@ -326,6 +327,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0162-find-peak-element](https://github.com/Neeru0106/leet-code/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/Neeru0106/leet-code/tree/main/0268-missing-number/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Neeru0106/leet-code/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Neeru0106/leet-code/tree/main/1004-max-consecutive-ones-iii/) | Medium |
