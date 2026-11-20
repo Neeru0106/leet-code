@@ -128,6 +128,7 @@
 | [1859-sorting-the-sentence](https://github.com/Neeru0106/leet-code/tree/main/1859-sorting-the-sentence/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Neeru0106/leet-code/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Neeru0106/leet-code/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
+| [2027-minimum-moves-to-convert-string](https://github.com/Neeru0106/leet-code/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Neeru0106/leet-code/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Neeru0106/leet-code/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2129-capitalize-the-title](https://github.com/Neeru0106/leet-code/tree/main/2129-capitalize-the-title/) | Easy |
@@ -354,6 +355,7 @@
 | [0860-lemonade-change](https://github.com/Neeru0106/leet-code/tree/main/0860-lemonade-change/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Neeru0106/leet-code/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Neeru0106/leet-code/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
+| [2027-minimum-moves-to-convert-string](https://github.com/Neeru0106/leet-code/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Neeru0106/leet-code/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
