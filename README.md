@@ -142,6 +142,7 @@
 | [2409-count-days-spent-together](https://github.com/Neeru0106/leet-code/tree/main/2409-count-days-spent-together/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Neeru0106/leet-code/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Neeru0106/leet-code/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
+| [3340-check-balanced-string](https://github.com/Neeru0106/leet-code/tree/main/3340-check-balanced-string/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Neeru0106/leet-code/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Neeru0106/leet-code/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3606-coupon-code-validator](https://github.com/Neeru0106/leet-code/tree/main/3606-coupon-code-validator/) | Easy |
