@@ -55,6 +55,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Neeru0106/leet-code/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Neeru0106/leet-code/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Neeru0106/leet-code/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [2399-check-distances-between-same-letters](https://github.com/Neeru0106/leet-code/tree/main/2399-check-distances-between-same-letters/) | Easy |
 | [2401-longest-nice-subarray](https://github.com/Neeru0106/leet-code/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Neeru0106/leet-code/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Neeru0106/leet-code/tree/main/2614-prime-in-diagonal/) | Easy |
@@ -139,6 +140,7 @@
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Neeru0106/leet-code/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Neeru0106/leet-code/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Neeru0106/leet-code/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
+| [2399-check-distances-between-same-letters](https://github.com/Neeru0106/leet-code/tree/main/2399-check-distances-between-same-letters/) | Easy |
 | [2409-count-days-spent-together](https://github.com/Neeru0106/leet-code/tree/main/2409-count-days-spent-together/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Neeru0106/leet-code/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Neeru0106/leet-code/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
@@ -274,6 +276,7 @@
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Neeru0106/leet-code/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Neeru0106/leet-code/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Neeru0106/leet-code/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
+| [2399-check-distances-between-same-letters](https://github.com/Neeru0106/leet-code/tree/main/2399-check-distances-between-same-letters/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Neeru0106/leet-code/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Neeru0106/leet-code/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2815-max-pair-sum-in-an-array](https://github.com/Neeru0106/leet-code/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
