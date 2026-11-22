@@ -42,6 +42,7 @@
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Neeru0106/leet-code/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1646-get-maximum-in-generated-array](https://github.com/Neeru0106/leet-code/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/Neeru0106/leet-code/tree/main/1652-defuse-the-bomb/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Neeru0106/leet-code/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1720-decode-xored-array](https://github.com/Neeru0106/leet-code/tree/main/1720-decode-xored-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Neeru0106/leet-code/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Neeru0106/leet-code/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
@@ -123,6 +124,7 @@
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Neeru0106/leet-code/tree/main/1309-decrypt-string-from-alphabet-to-integer-mapping/) | Easy |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Neeru0106/leet-code/tree/main/1576-replace-all-s-to-avoid-consecutive-repeating-characters/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Neeru0106/leet-code/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Neeru0106/leet-code/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/Neeru0106/leet-code/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Neeru0106/leet-code/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Neeru0106/leet-code/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
