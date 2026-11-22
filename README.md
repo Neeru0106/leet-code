@@ -131,6 +131,7 @@
 | [2027-minimum-moves-to-convert-string](https://github.com/Neeru0106/leet-code/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Neeru0106/leet-code/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Neeru0106/leet-code/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Neeru0106/leet-code/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2129-capitalize-the-title](https://github.com/Neeru0106/leet-code/tree/main/2129-capitalize-the-title/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Neeru0106/leet-code/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Neeru0106/leet-code/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
