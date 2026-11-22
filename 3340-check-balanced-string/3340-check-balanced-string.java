@@ -1,15 +1,14 @@
-class Solution {
-    public boolean isBalanced(String num) {
-        int s1=0;
-        int s2=0;
-        char[] c=num.toCharArray();
-        int n=c.length;
-        for(int i=0;i<n;i+=2){
-            s1+=(c[i]-'0');
+class Solution{
+    public boolean isBalanced(String num){
+        int i=0,j=1,sum=0;
+        while(i<num.length()){
+            sum+=num.charAt(i)-'0';
+            i+=2;
         }
-        for(int i=1;i<n;i+=2){
-            s2+=(c[i]-'0');
+        while(j<num.length()){
+            sum-=num.charAt(j)-'0';
+            j+=2;
         }
-        return s1==s2;
+        return sum==0;
     }
 }
