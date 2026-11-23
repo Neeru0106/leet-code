@@ -56,6 +56,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Neeru0106/leet-code/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Neeru0106/leet-code/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Neeru0106/leet-code/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/Neeru0106/leet-code/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2399-check-distances-between-same-letters](https://github.com/Neeru0106/leet-code/tree/main/2399-check-distances-between-same-letters/) | Easy |
 | [2401-longest-nice-subarray](https://github.com/Neeru0106/leet-code/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Neeru0106/leet-code/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
@@ -188,6 +189,7 @@
 | [0999-available-captures-for-rook](https://github.com/Neeru0106/leet-code/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1267-count-servers-that-communicate](https://github.com/Neeru0106/leet-code/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Neeru0106/leet-code/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/Neeru0106/leet-code/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Neeru0106/leet-code/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Neeru0106/leet-code/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/Neeru0106/leet-code/tree/main/3142-check-if-grid-satisfies-conditions/) | Easy |
