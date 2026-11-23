@@ -73,6 +73,7 @@
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Neeru0106/leet-code/tree/main/3000-maximum-area-of-longest-diagonal-rectangle/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Neeru0106/leet-code/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/Neeru0106/leet-code/tree/main/3028-ant-on-the-boundary/) | Easy |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/Neeru0106/leet-code/tree/main/3142-check-if-grid-satisfies-conditions/) | Easy |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Neeru0106/leet-code/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Neeru0106/leet-code/tree/main/3315-construct-the-minimum-bitwise-array-ii/) | Medium |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Neeru0106/leet-code/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
@@ -187,6 +188,7 @@
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Neeru0106/leet-code/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Neeru0106/leet-code/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Neeru0106/leet-code/tree/main/2614-prime-in-diagonal/) | Easy |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/Neeru0106/leet-code/tree/main/3142-check-if-grid-satisfies-conditions/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
