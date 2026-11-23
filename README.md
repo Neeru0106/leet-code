@@ -29,6 +29,7 @@
 | [1267-count-servers-that-communicate](https://github.com/Neeru0106/leet-code/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Neeru0106/leet-code/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Neeru0106/leet-code/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/Neeru0106/leet-code/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Neeru0106/leet-code/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Neeru0106/leet-code/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Neeru0106/leet-code/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -97,6 +98,7 @@
 | [0238-product-of-array-except-self](https://github.com/Neeru0106/leet-code/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/Neeru0106/leet-code/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Neeru0106/leet-code/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/Neeru0106/leet-code/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Neeru0106/leet-code/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Neeru0106/leet-code/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/Neeru0106/leet-code/tree/main/2848-points-that-intersect-with-cars/) | Easy |
@@ -237,6 +239,7 @@
 | [0836-rectangle-overlap](https://github.com/Neeru0106/leet-code/tree/main/0836-rectangle-overlap/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Neeru0106/leet-code/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Neeru0106/leet-code/tree/main/1317-convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/Neeru0106/leet-code/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Neeru0106/leet-code/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Neeru0106/leet-code/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Neeru0106/leet-code/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
@@ -448,4 +451,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Neeru0106/leet-code/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Neeru0106/leet-code/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Neeru0106/leet-code/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
