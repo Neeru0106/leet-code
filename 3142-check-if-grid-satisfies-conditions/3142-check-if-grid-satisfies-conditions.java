@@ -1,27 +1,11 @@
 class Solution {
     public boolean satisfiesConditions(int[][] grid) {
-        int m=grid.length;
-        int n=grid[0].length;
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                if(i==m-1 && j==n-1){
-                    continue;
+        for(int i=0;i<grid.length;i++){
+            for(int j=0;j<grid[0].length;j++){
+                if(i<grid.length-1 && grid[i][j]!=grid[i+1][j]){
+                    return false;
                 }
-                if(i==m-1){
-                    if(grid[i][j]==grid[i][j+1]){
-                        return false;
-                    }else{
-                        continue;
-                    }
-                }
-                if(j==n-1){
-                    if(grid[i][j]!=grid[i+1][j]){
-                        return false;
-                    }else{
-                        continue;
-                    }
-                }
-                if(grid[i][j]!=grid[i+1][j] || grid[i][j]==grid[i][j+1]){
+                if(j<grid[0].length-1 && grid[i][j]==grid[i][j+1]){
                     return false;
                 }
             }
