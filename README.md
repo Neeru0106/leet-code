@@ -148,6 +148,7 @@
 | [2409-count-days-spent-together](https://github.com/Neeru0106/leet-code/tree/main/2409-count-days-spent-together/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Neeru0106/leet-code/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Neeru0106/leet-code/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Neeru0106/leet-code/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
 | [3340-check-balanced-string](https://github.com/Neeru0106/leet-code/tree/main/3340-check-balanced-string/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Neeru0106/leet-code/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Neeru0106/leet-code/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -250,6 +251,7 @@
 | [2409-count-days-spent-together](https://github.com/Neeru0106/leet-code/tree/main/2409-count-days-spent-together/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Neeru0106/leet-code/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2739-total-distance-traveled](https://github.com/Neeru0106/leet-code/tree/main/2739-total-distance-traveled/) | Easy |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Neeru0106/leet-code/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Neeru0106/leet-code/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3560-find-minimum-log-transportation-cost](https://github.com/Neeru0106/leet-code/tree/main/3560-find-minimum-log-transportation-cost/) | Easy |
 | [3618-split-array-by-prime-indices](https://github.com/Neeru0106/leet-code/tree/main/3618-split-array-by-prime-indices/) | Medium |
