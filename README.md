@@ -51,6 +51,7 @@
 | [1929-concatenation-of-array](https://github.com/Neeru0106/leet-code/tree/main/1929-concatenation-of-array/) | Easy |
 | [1995-count-special-quadruplets](https://github.com/Neeru0106/leet-code/tree/main/1995-count-special-quadruplets/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Neeru0106/leet-code/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
+| [2043-simple-bank-system](https://github.com/Neeru0106/leet-code/tree/main/2043-simple-bank-system/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/Neeru0106/leet-code/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Neeru0106/leet-code/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Neeru0106/leet-code/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -202,6 +203,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/Neeru0106/leet-code/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1646-get-maximum-in-generated-array](https://github.com/Neeru0106/leet-code/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Neeru0106/leet-code/tree/main/1929-concatenation-of-array/) | Easy |
+| [2043-simple-bank-system](https://github.com/Neeru0106/leet-code/tree/main/2043-simple-bank-system/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/Neeru0106/leet-code/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Neeru0106/leet-code/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Neeru0106/leet-code/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
@@ -284,6 +286,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Neeru0106/leet-code/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Neeru0106/leet-code/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [1995-count-special-quadruplets](https://github.com/Neeru0106/leet-code/tree/main/1995-count-special-quadruplets/) | Easy |
+| [2043-simple-bank-system](https://github.com/Neeru0106/leet-code/tree/main/2043-simple-bank-system/) | Medium |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Neeru0106/leet-code/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Neeru0106/leet-code/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Neeru0106/leet-code/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
@@ -461,6 +464,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Neeru0106/leet-code/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+| [2043-simple-bank-system](https://github.com/Neeru0106/leet-code/tree/main/2043-simple-bank-system/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
