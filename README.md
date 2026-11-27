@@ -55,6 +55,7 @@
 | [2073-time-needed-to-buy-tickets](https://github.com/Neeru0106/leet-code/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Neeru0106/leet-code/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Neeru0106/leet-code/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Neeru0106/leet-code/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Neeru0106/leet-code/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Neeru0106/leet-code/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Neeru0106/leet-code/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
@@ -191,6 +192,7 @@
 | [0999-available-captures-for-rook](https://github.com/Neeru0106/leet-code/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1267-count-servers-that-communicate](https://github.com/Neeru0106/leet-code/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Neeru0106/leet-code/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Neeru0106/leet-code/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Neeru0106/leet-code/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Neeru0106/leet-code/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Neeru0106/leet-code/tree/main/2614-prime-in-diagonal/) | Easy |
@@ -288,6 +290,7 @@
 | [1995-count-special-quadruplets](https://github.com/Neeru0106/leet-code/tree/main/1995-count-special-quadruplets/) | Easy |
 | [2043-simple-bank-system](https://github.com/Neeru0106/leet-code/tree/main/2043-simple-bank-system/) | Medium |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Neeru0106/leet-code/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Neeru0106/leet-code/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Neeru0106/leet-code/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Neeru0106/leet-code/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2399-check-distances-between-same-letters](https://github.com/Neeru0106/leet-code/tree/main/2399-check-distances-between-same-letters/) | Easy |
