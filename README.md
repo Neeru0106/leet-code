@@ -67,6 +67,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Neeru0106/leet-code/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Neeru0106/leet-code/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2815-max-pair-sum-in-an-array](https://github.com/Neeru0106/leet-code/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Neeru0106/leet-code/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/Neeru0106/leet-code/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Neeru0106/leet-code/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Neeru0106/leet-code/tree/main/2873-maximum-value-of-an-ordered-triplet-i/) | Easy |
@@ -149,6 +150,7 @@
 | [2399-check-distances-between-same-letters](https://github.com/Neeru0106/leet-code/tree/main/2399-check-distances-between-same-letters/) | Easy |
 | [2409-count-days-spent-together](https://github.com/Neeru0106/leet-code/tree/main/2409-count-days-spent-together/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Neeru0106/leet-code/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Neeru0106/leet-code/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Neeru0106/leet-code/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Neeru0106/leet-code/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
 | [3340-check-balanced-string](https://github.com/Neeru0106/leet-code/tree/main/3340-check-balanced-string/) | Easy |
